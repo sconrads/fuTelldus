@@ -4,9 +4,9 @@
 	/* Connect to database
 	--------------------------------------------------------------------------- */
 	$host 		= "localhost"; 					// Host name
-	$username 	= "USERNAME"; 					// Mysql username
-	$password 	= "PASSWORD"; 					// Mysql password
-	$db_name 	= "DATABASE_NAME"; 				// Mysql DB
+	$username 	= "admin"; 					// Mysql username
+	$password 	= "skjefjgdlos23jf33"; 					// Mysql password
+	$db_name 	= "futelldus"; 				// Mysql DB
 
 	
 	
