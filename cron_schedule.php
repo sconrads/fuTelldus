@@ -2,7 +2,7 @@
 
 	/* Connect to database
 	--------------------------------------------------------------------------- */
-	require("./lib/base.inc.php");
+	require("/app/lib/base.inc.php");
 
 	// Create DB-instance
 	$mysqli = new Mysqli($host, $username, $password, $db_name); 
